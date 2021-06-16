@@ -1,0 +1,28 @@
+div{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+
+h1{
+    color: rgb(2, 150, 176);
+}
+
+.failed{
+    border: 3px solid tomato;
+    color: rgb(245, 97, 97);
+}
+.passed{
+    border: 3px solid rgb(51, 160, 4);
+    color: rgb(130, 238, 146);
+}
+.failed, .passed{
+    margin: 50px;
+    padding: 5px;
+    width: 400px;
+}
+
+img{
+    width: 350px;
+    height: 350px;
+}
